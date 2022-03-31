@@ -63,5 +63,4 @@ int main ()
 		cout << endl;
 	}
 	
-
 }
